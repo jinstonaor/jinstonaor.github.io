@@ -1,0 +1,14 @@
+title: 퇴근 서바이버즈 개발 일지
+description: 퇴근하고 혼자 만드는 직장인 뱀서라이크 「퇴근 서바이버즈 (Clock-Out Survivors)」 개발 기록
+author: OARIS
+lang: ko
+theme: minima
+url: https://jinstonaor.github.io
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  social_links:
+    - { platform: youtube, user_url: "https://www.youtube.com/@clockoutsurvivors" }
+header_pages:
+  - about.md
