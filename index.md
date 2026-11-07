@@ -1,5 +1,6 @@
 ---
 layout: home
+list_title: 글 목록
 ---
 ![퇴근 서바이버즈](/assets/img/cover.jpg)
 
